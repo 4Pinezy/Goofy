@@ -20,7 +20,7 @@ const quizData = [
 		a:"1939r.",
 		b:"11.09.2001",
 		c:"XXI w.",
-		d:"XVII w.",
+		d:"XVIII w.",
 		correct: "d",
     },
 	{
